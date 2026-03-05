@@ -2,7 +2,7 @@
 
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify clothing images from the Fashion-MNIST dataset.
 
-## Overview -----
+## **Overview** 
 
 Fashion-MNIST is a dataset of 70,000 grayscale images of clothing items across 10 categories including shirts, sneakers, bags, and coats.
 
@@ -13,14 +13,14 @@ This project demonstrates how to:
 - Train and evaluate a model
 - Perform image classification
 
-## Technologies Used -----
+## **Technologies Used**
 
 - Python
 - PyTorch
 - Torchvision
 - Matplotlib
 
-## Model Architecture -----
+## **Model Architecture**
 
 The CNN includes:
 
@@ -29,10 +29,10 @@ The CNN includes:
 - Max pooling layers
 - Fully connected layers for classification
 
-## Results -----
+## **Results** 
 
 The model achieves approximately **~90% accuracy** on the test dataset.
 
-## How to Run -----
+## **How to Run** 
 
 Install dependencies:
