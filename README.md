@@ -33,6 +33,12 @@ The CNN includes:
 
 The model achieves approximately **~90% accuracy** on the test dataset.
 
-## **How to Run** 
+## **How to Run**
 
 Install dependencies:
+
+pip install torch torchvision matplotlib
+
+Run the training script:
+
+python cnn_fashion_mnist.py
